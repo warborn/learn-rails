@@ -1,0 +1,5 @@
+ENV["GMAIL_USERNAME"] = "ivanalejandro249@gmail.com"
+ENV["GMAIL_PASSWORD"] = "SleterXX"
+ENV["MAILCHIMP_API_KEY"] = "d020d50a1457ee264285ca420552302d-us10"
+ENV["MAILCHIMP_LIST_ID"] = "803d477aad"
+ENV["OWNER_EMAIL"] = "xxthecreatorxx_live@hotmail.com"
