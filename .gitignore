@@ -17,4 +17,4 @@
 /tmp
 
 # Ignore this file
-/config/app_environment_variables.rb
+config/app_environment_variables.rb
